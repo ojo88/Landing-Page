@@ -36,3 +36,14 @@ footer {
     align-items: center;
 
 }
+
+.hero {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.mainText {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
