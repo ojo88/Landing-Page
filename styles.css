@@ -186,3 +186,11 @@ button {
     border-style: solid;
     border-color: #f9faf8;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    color:#E5E7EB
+}
